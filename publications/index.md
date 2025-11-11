@@ -18,7 +18,7 @@ _Plos Computational Biology_ (2025)
 
 
 - Franziska Lesigang, Christian Hilbe & Nikoleta E Glynatsi.
-[**Can I afford to remember less than you? Best responses in repeated additive games.**](https://doi.org/10.1371/journal.pcbi.1012644)
+[**Can I afford to remember less than you? Best responses in repeated additive games.**](https://www.sciencedirect.com/science/article/pii/S0165176525001375)
 _Economics Letters_ (2025)
 <a href="papers/LesigangEcon2025.pdf"><i class="fa fa-file-pdf-o"></i>
 
