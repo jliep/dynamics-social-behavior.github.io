@@ -11,8 +11,14 @@ image:
 
 <h6>2025</h6>
 
+- Nikoleta E Glynatsi, Christian Hilbe & Yohsuke Murase.
+[**Exact conditions for evolutionary stability in indirect reciprocity under noise.**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013584)
+_Plos Computational Biology_ (2025)
+<a href="papers/Glynatsi_PlosCB_2025.pdf"><i class="fa fa-file-pdf-o"></i>
+
+
 - Franziska Lesigang, Christian Hilbe & Nikoleta E Glynatsi.
-[**Can I afford to remember less than you? Best responses in repeated additive games.**](https://doi.org/10.1371/journal.pcbi.1012644)
+[**Can I afford to remember less than you? Best responses in repeated additive games.**](https://www.sciencedirect.com/science/article/pii/S0165176525001375)
 _Economics Letters_ (2025)
 <a href="papers/LesigangEcon2025.pdf"><i class="fa fa-file-pdf-o"></i>
 
@@ -22,6 +28,11 @@ _Nature Communications_ (2025) <a href="papers/Rossetti_NComms_2025.pdf"><i clas
 
 
 <h6>2024</h6>
+
+- Julien Lie-Panis, Léo Fitouchi, Nicolas Baumard & Jean-Baptiste André.
+[**The social leverage effect: Institutions transform weak reputation effects into strong incentives for cooperation.**](https://www.pnas.org/doi/10.1073/pnas.2408802121)
+_Proceedings of the National Academy of Sciences_ (2024) 
+<a href="papers/Lie-Panis_PNAS_2024.pdf"><i class="fa fa-file-pdf-o"></i>
 
 - Nikoleta E Glynatsi, Vincent A Knight & Marc Harper.
 [**Properties of winning Iterated Prisoner's Dilemma strategies.**](https://doi.org/10.1371/journal.pcbi.1012644)
